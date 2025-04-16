@@ -25,11 +25,3 @@ Draw a figure with vertices A(0, 4), B(3, 4), C(4, 0), D(0, 0). Perform the foll
 ### Approach
 - Use OpenGL in C++ for rendering and transformation
 - Translation and rotation are applied 
-
-
-## 🔧 How to Run
-
-### Python Script
-```bash
-cd framebuffer_calculation
-python3 framebuffer_calc.py
